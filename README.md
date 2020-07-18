@@ -15,7 +15,6 @@ Here is a little bit about me and what I do:
 - 💬 Ask me about repositories! I would like to get comfortable in speaking / typing the code lingo! 
 
 <p align="center">
-	<a href="https://github.com/jcqlng"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/jcqlngeiger"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/jacqueline-geiger-9180ab117/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://twitter.com/jcqlngeiger"><img src="https://img.shields.io/twitter/follow/jcqlngeiger?label=Twitter&style=social" alt="Twitter"></a>
+  	<a href="https://www.linkedin.com/in/jacqueline-geiger-9180ab117/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   </p>
