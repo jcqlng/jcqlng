@@ -4,7 +4,7 @@
 
 Here is a little bit about me and what I do:
 
-- 🔭 I’m currently working on on a gorup project called Pet Paw-tners which helps you find a pet sitter and help those who pet sit for a living find their "match" based a survey taken. 
+- 🔭 I’m currently working on on a group project called Pet Paw-tners which helps you find a pet sitter and help those who pet sit for a living find their "match" based a survey taken. 
 
 - 🌱 I’m currently learning full stack web development. So far I learned briefly about HTML, CSS, JS, Node, MySQL, and API's. 
 
