@@ -8,11 +8,9 @@ Here is a little bit about me and what I do:
 
 - 🌱 I’m currently learning full stack web development. So far I learned briefly about HTML, CSS, JS, Node, MySQL, and API's. 
 
-- 👯 I’m looking to collaborate on a database for auto auctions. I currently am the executive assistant to Rupp auctions and feel that our database can be efficient.
-
 - 🤔 I’m looking for help with just about anything with my current repositories. I have been cleaning up as I go and attempting to fix bugs, update the repos, and just overall how to do better in my code. I take constructive criticism well so shoot! 
 
-- 💬 Ask me about repositories! I would like to get comfortable in speaking / typing the code lingo! 
+- 💬 Ask me about my repositories!  
 
 <p align="center">
 	<a href="https://twitter.com/jcqlngeiger"><img src="https://img.shields.io/twitter/follow/jcqlngeiger?label=Twitter&style=social" alt="Twitter"></a>
