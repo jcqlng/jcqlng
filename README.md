@@ -4,9 +4,9 @@
 
 Here is a little bit about me and what I do:
 
-- 🔭 I’m currently working on on a group project called Pet Paw-tners which helps you find a pet sitter and help those who pet sit for a living find their "match" based a survey taken. 
+- 🔭 I’m currently working on React Apps at the moment.
 
-- 🌱 I’m currently learning full stack web development. So far I learned briefly about HTML, CSS, JS, Node, MySQL, and API's. 
+- 🌱 I’m currently learning full stack web development. So far I learned briefly about HTML, CSS, JS, Node, MySQL, API's, MongoDB, and React. 
 
 - 🤔 I’m looking for help with just about anything with my current repositories. I have been cleaning up as I go and attempting to fix bugs, update the repos, and just overall how to do better in my code. I take constructive criticism well so shoot! 
 
