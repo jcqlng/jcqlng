@@ -4,9 +4,9 @@
 
 Here is a little bit about me and what I do:
 
-- 🔭 I’m currently working on React Apps at the moment.
+- 🔭 I’m currently working on building ios apps with Swift.
 
-- 🌱 I’m currently learning full stack web development. So far I learned briefly about HTML, CSS, JS, Node, MySQL, API's, MongoDB, and React. 
+- 🌱 I’m currently learning how to code in Swift. 
 
 - 🤔 I’m looking for help with just about anything with my current repositories. I have been cleaning up as I go and attempting to fix bugs, update the repos, and just overall how to do better in my code. I take constructive criticism well so shoot! 
 
