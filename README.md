@@ -2,7 +2,7 @@
 
 ✨ Welcome to my GitHub portfolio! ✨
 
-I currently work fulltime as an accounts payable analsyt in south florida. 
+I currently am a freelance web developer in south florida. 
 
 My current work in web development is launching and maintianing my own two websites for my side business / passion. 
 
