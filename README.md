@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width=100% src="[/public/images/Nbanner.png](https://media-exp1.licdn.com/dms/image/C4D16AQFSPxp7dc5asw/profile-displaybackgroundimage-shrink_350_1400/0/1594166881297?e=1669852800&v=beta&t=t-EGiEg0u6_dj1KKCIlzT7SoPHHQPxW82YD2oFObgAg)">
+    <img width=100% src="![image](https://user-images.githubusercontent.com/46910026/193158600-372b7a86-840f-48b3-a6da-c190de0e337a.png)">
   </a>
 </p>
 
