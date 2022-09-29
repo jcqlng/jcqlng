@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#">
+    <img width=100% src="[/public/images/Nbanner.png](https://media-exp1.licdn.com/dms/image/C4D16AQFSPxp7dc5asw/profile-displaybackgroundimage-shrink_350_1400/0/1594166881297?e=1669852800&v=beta&t=t-EGiEg0u6_dj1KKCIlzT7SoPHHQPxW82YD2oFObgAg)">
+  </a>
+</p>
+
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
