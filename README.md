@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img width=100% src="![image](https://user-images.githubusercontent.com/46910026/193158600-372b7a86-840f-48b3-a6da-c190de0e337a.png)">
-  </a>
-</p>
 
 ### Hi there, I'm Jackie 👋
 
