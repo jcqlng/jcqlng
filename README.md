@@ -1,11 +1,19 @@
-
+<img style=”margin: 10px” src=”https://1drv.ms/i/s!ArZPknlLNLWrhflEdoS1GgFT2-m8Ow?e=Dz66bt" alt=”React” height=”50" />
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
 
-I currently am a freelance web developer in south florida. 
+👩‍💻I am a full stack web developer in South Florida since 2020. I started in March of that year to switch from the paralegal field as I have a true love and passion for tecnology and was looking for a true challenge. I feel creating and designing websites and applications are so much fun and rewarding to code. 
 
-My current work in web development is launching and maintianing my own two websites for my side business / passion. 
+I specialize in:
+💫	HTML 
+💫	CSS
+💫	Javascript
+💫	React JS
+💫	Node Js
+💫	MySQL 
+💫	Mongo DB
+
 
 Feel free to follow me on Instagram, LinkedIn, and here for my latest work!
 
