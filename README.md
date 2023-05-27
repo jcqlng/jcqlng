@@ -6,13 +6,13 @@
 👩‍💻I am a full stack web developer in South Florida since 2020. I started in March of that year to switch from the paralegal field as I have a true love and passion for tecnology and was looking for a true challenge. I feel creating and designing websites and applications are so much fun and rewarding to code. 
 
 I specialize in:
-💫	HTML 
-💫	CSS
-💫	Javascript
-💫	React JS
-💫	Node Js
-💫	MySQL 
-💫	Mongo DB
+#💫	HTML 
+#💫	CSS
+#💫	Javascript
+#💫	React JS
+#💫	Node Js
+#💫	MySQL 
+#💫	Mongo DB
 
 
 Feel free to follow me on Instagram, LinkedIn, and here for my latest work!
