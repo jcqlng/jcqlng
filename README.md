@@ -1,4 +1,4 @@
-<img style=”margin: 10px” src=”https://1drv.ms/i/s!ArZPknlLNLWrhflEdoS1GgFT2-m8Ow?e=Dz66bt" alt=”React” height=”50" />
+<img style=”margin: 10px” src=”laptop wave.png" alt=”React” height=”50" />
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
