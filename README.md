@@ -1,4 +1,4 @@
-<img style=”margin: 10px” src=”laptop wave.png" alt=”React” height=”50" />
+![laptopwave](laptop wave.png)
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
