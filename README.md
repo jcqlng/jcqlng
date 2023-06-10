@@ -1,6 +1,6 @@
-<p align="center"> 
+
  ![image](https://github.com/jcqlng/jcqlng/assets/46910026/4d361669-4866-4560-9a0f-61853cf16d73)
-</p>
+
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
