@@ -1,4 +1,4 @@
-![image](https://github.com/jcqlng/jcqlng/assets/46910026/4d361669-4866-4560-9a0f-61853cf16d73)
+<p align="center">![image](https://github.com/jcqlng/jcqlng/assets/46910026/4d361669-4866-4560-9a0f-61853cf16d73)</p>
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
@@ -30,6 +30,6 @@ Feel free to follow me on Instagram, LinkedIn, and here for my latest work
   	<a href="https://www.linkedin.com/in/jacqueline-geiger-9180ab117/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   </p>
   <p align="center">
-  	<a href="https://www.instagram.com/jackie.codes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  	<a href="https://www.instagram.com/jgeigertech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
   
