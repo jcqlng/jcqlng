@@ -1,4 +1,4 @@
-![laptopwave](laptop wave.png)
+![laptopwave](laptopwave.png)
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
