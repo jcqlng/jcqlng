@@ -1,6 +1,6 @@
 
- ![image](https://github.com/jcqlng/jcqlng/assets/46910026/4d361669-4866-4560-9a0f-61853cf16d73)
 
+[(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE4MGRhOTE1NjBjMzUyNWIyYTM3Mjk1ZmNiZjdiODJjOGZlOTk5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HIuoBo2NTTEnt36cXn/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE4MGRhOTE1NjBjMzUyNWIyYTM3Mjk1ZmNiZjdiODJjOGZlOTk5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HIuoBo2NTTEnt36cXn/giphy.gif)
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
