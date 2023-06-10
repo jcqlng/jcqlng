@@ -1,4 +1,4 @@
-![laptopwave](laptopwave.png)
+![image](https://github.com/jcqlng/jcqlng/assets/46910026/5b0e1e17-0e00-40a3-a2e9-c2646ebf047e)
 ### Hi there, I'm Jackie 👋
 
 ✨ Welcome to my GitHub portfolio! ✨
